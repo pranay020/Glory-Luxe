@@ -8,7 +8,7 @@ This is a web based application developed for a restaurant named PARADISE.
 **Project Link** -https://witty-ocean-02b38f900.3.azurestaticapps.net/
 
 
-**Demo Video** -  
+**Demo Video** -  https://youtu.be/Jgf8cJwtkqs
 
 ## Features and Functionalities 😃
 
