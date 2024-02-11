@@ -6,9 +6,7 @@ This is a web based application developed for a restaurant named PARADISE.
 
 
 **Project Link** -https://salmon-pebble-083963100.3.azurestaticapps.net
-
-
-**Demo Video** -  
+  
 
 ## Features and Functionalities 😃
 
